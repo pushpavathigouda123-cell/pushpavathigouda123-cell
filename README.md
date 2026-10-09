@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm a Computer Science Student 👋
 
-<!--
-**pushpavathigouda123-cell/pushpavathigouda123-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about programming, problem-solving, and software development.
 
-Here are some ideas to get you started:
+💻 Currently, I'm learning **Java and Data Structures & Algorithms (DSA)** to strengthen my coding and logical thinking skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm continuously learning new technologies and building projects to improve my practical knowledge.
+
+### 🚀 Currently Learning
+
+* ☕ Java Programming
+* 🧠 Data Structures and Algorithms
+* 🧩 Problem Solving with LeetCode
+* 🌐 Web Development — HTML, CSS, and JavaScript
+* 🔧 Git and GitHub
+
+### 🎯 My Goals
+
+* Solve coding problems consistently.
+* Build real-world projects.
+* Improve my problem-solving and programming skills.
+* Become a skilled Software Engineer.
+
+### 💡 A Little About Me
+
+* 📚 Always ready to learn something new.
+* 💻 Enjoy exploring programming concepts.
+* 🚀 Believe in learning by building and practicing.
+
+**“Consistency is the key to becoming a better programmer.”** ✨
